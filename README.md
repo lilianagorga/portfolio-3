@@ -3,7 +3,6 @@
 ## Teck Stack 
 * HTML 
 * CSS 
-* Vanilla JavaScript
 * Github Pages for hosting 
 
 ## Live Demo
